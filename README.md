@@ -4,7 +4,7 @@ The pipeline consists of the following main stages: Data Retrieval and Enrichmen
 
 ### Co-Authors: Solomon Cheung, Dria Lee, Kaiwen Che
 
-![Flowchart](Flowchart%20-%20Frame%201.jpg)
+![Flowchart](Flowchart.jpg)
 
 ## 1. Data Retrieval and Enrichment
 
