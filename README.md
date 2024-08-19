@@ -6,6 +6,8 @@ The pipeline consists of the following main stages: Data Retrieval and Enrichmen
 
 ![Flowchart](Flowchart.jpg)
 
+- [CODE REDACTED DUE TO CONFIDENTIALITY AGREEMENT]
+
 ## 1. Data Retrieval and Enrichment
 
 ### 1.1 Organization Retrieval
